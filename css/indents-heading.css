@@ -1,0 +1,14 @@
+.indents-heading__title {
+  margin-bottom: 30px;
+  font-size: 60px;
+  line-height: 72px;
+}
+
+.indents-heading__text:last-child {
+  margin-bottom: 0;
+}
+
+.indents-headlines__link {
+  border-bottom: 1px solid #000;
+  color: #02535f;
+}

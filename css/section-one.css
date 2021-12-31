@@ -1,0 +1,21 @@
+.section-one__box {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.section-one__box--top {
+  max-width: 485px;
+}
+
+.section-one__box--bottom {
+  max-width: 475px;
+  margin-right: 40px;
+}
+.section-one__text:last-child {
+  margin-bottom: 0;
+}
+
+.section-one__img--right {
+  margin-right: 30px;
+  margin-bottom: 30px;
+}

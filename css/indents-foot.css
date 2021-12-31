@@ -1,0 +1,11 @@
+.indents-foot__item {
+  margin-bottom: 9px;
+}
+
+.indents-foot__item:last-child {
+  margin-bottom: 29px;
+}
+
+.indents-foot__text {
+  margin-bottom: 0;
+}
