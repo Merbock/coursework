@@ -73,6 +73,14 @@ section {
   padding-bottom: 25px;
 }
 
+section:first-child {
+  padding-top: 60px;
+}
+
+section:last-child {
+  padding-bottom: 60px;
+}
+
 span {
   font-style: italic;
 }
